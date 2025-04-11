@@ -411,3 +411,4 @@ $
 
 ## Observações
 (caso tenha ficado confuso, o Daniel quem fez as configurações do relatório, mas Davi fez a primeira alteração)
+-Arquivo de Backup "ATIVIDADE FINAL.por.bak", foi criado não intencionalmente, porém não alterou o resultado final do código
